@@ -12,3 +12,14 @@
 ## Skills:
 - ### Python
 - ### HTML/CSS
+
+## Education:
+* ### Qaragandy Polytechnic College:
+  * Emergency protection
+* ### SkyLearn School:
+  * Software engineer (in process...)
+
+## Languages:
+* ### Kazakh
+* ### English (A1)
+* ### Russian
